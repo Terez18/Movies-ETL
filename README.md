@@ -1,1 +1,2 @@
 # Movies-ETL
+In this analysis data from two csv files and one json were extracted, transformed and loaded into a SQL database. In the process of transforming the movies data was cleaned in multiple steps to eliminate duplicates, missing data was filled, data was parsed, tables were merged and the clean data was sent to be saved in the database using PostgreSQL11 on pgAdmin. Transferring the clean data to the database took approximately one hour since there was a large amount of data to send.  
